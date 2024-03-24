@@ -216,7 +216,7 @@ def startmenu():
 			print("Generating Universe...")
 			root = Universe(seed)
 			if name.lower() == "n":
-				pass
+				name = root.data["users"][0]
 			else:
 				name = input("Enter username: ")
 				if name in ["", " "]:
