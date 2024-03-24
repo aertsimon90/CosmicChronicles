@@ -2,6 +2,8 @@
 
 Cosmic Chronicles is a terminal game that offers players the opportunity to explore infinite universes and experience adventures. This game takes place in the countless universes created by God. The player is sent to one of these universes as the most helpless yet important servant of God, with the goal of becoming stronger, defeating God, and ruling over all universes.
 
+![Game Logo](logo.ico)
+
 ## How to Play
 
 - **For Windows:** Run the game.exe file.
